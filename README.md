@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadalidd" alt="asadalidd" /></a> </p>
 
-- 🙇‍♂️ I’m currently studying Masters AI at [FAU]([https://activebas.com/](https://www.fau.de/)
+- 🙇‍♂️ I’m currently studying Masters AI at [FAU](https://www.fau.de/)
 
-- 🧑‍💻 I’m working on providing customer insights at [GFK]([https://www.gfk.com/home)
+- 🧑‍💻 I’m working on providing customer insights at [GFK](https://www.gfk.com/home)
 
 - 🖥️ On a journey of home-labbing right now. 
 
