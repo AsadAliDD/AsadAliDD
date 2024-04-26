@@ -14,8 +14,8 @@
 - 💬 Ask me about **Python, Machine Learning and Data Science and my Homelab**
 
 - 📫 How to reach me **asadalisps@gmail.com**
-- 🕸️ Visit my [Website](asadali.de)
-- 🕊️ Check out my self-hosted [git](git.asadali.de) instance
+- 🕸️ Visit my [Website](https://www.asadali.de)
+- 🕊️ Check out my self-hosted [git](https://www.git.asadali.de) instance
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
