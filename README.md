@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Asad</h1>
-<h3 align="center">Data Scientist from Pakistan</h3>
+<h3 align="center">Masters Student at FAU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadalidd&label=Profile%20views&color=0e75b6&style=flat" alt="asadalidd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadalidd" alt="asadalidd" /></a> </p>
 
-- 🔭 I’m currently working on making buildings smarter at [activeBAS](https://activebas.com/)
+- 🔭 I’m currently studying Masters AI at [FAU]([https://activebas.com/](https://www.fau.de/))
 
-- 🌱 I’m currently learning **Django**
+- 🔭 I’m working on providing customer insights at [GFK]([https://www.gfk.com/home))
 
-- 💬 Ask me about **Python, Machine Learning and Data Science**
+- 🌱 On a journey of home-labbing right now. 
+
+- 💬 Ask me about **Python, Machine Learning and Data Science and my Homelab**
 
 - 📫 How to reach me **asadalisps@gmail.com**
+- 🕸️ Visit my [Website](asadali.de)
+- 🕊️ Check out my self-hosted [git](git.asadali.de) instance
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
