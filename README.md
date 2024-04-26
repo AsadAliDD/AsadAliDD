@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **asadalisps@gmail.com**
 - 🕸️ Visit my [Website](https://www.asadali.de)
-- 🕊️ Check out my self-hosted [git](https://www.git.asadali.de) instance
+- 🕊️ Check out my self-hosted [git](https://git.asadali.de/explore/repos) instance
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
