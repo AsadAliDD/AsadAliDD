@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Machine Learning and Data Science and my Homelab**
 
-- 📫 How to reach me **asadalisps@gmail.com**
+- 📫 How to reach me **mail@asadali.de**
 - 🕸️ Visit my [Website](https://asadali.de/)
 - 🕊️ Check out my self-hosted [git](https://git.asadali.de/explore/repos) instance
 
